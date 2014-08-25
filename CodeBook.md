@@ -74,10 +74,10 @@ Variable Names
 
 Data
 -----------------------------------
-*I merged the training and test data from 
+* I merged the training and test data from 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and then extracted only the
 measurements on the mean and standard deviation for each measurement. 
-*I used descriptive activity names to name the activities in the data set and labeled the data set with the appropriate names. 
-*Finally, I created a second, summary,independent data set with the average of each variable for each activity and each subject.
-*The analysis can be repeated using the included script, run_analysis.R
+* I used descriptive activity names to name the activities in the data set and labeled the data set with the appropriate names. 
+* Finally, I created a second, summary,independent data set with the average of each variable for each activity and each subject.
+* The analysis can be repeated using the included script, run_analysis.R
 
